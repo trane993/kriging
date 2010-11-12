@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Kriging">
+</Property><Property Name="Solution File" Value="C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Kriging.sln">
+</Property><Property Name="User Options File" Value="C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Kriging.suo">
+</Property><Property Name="Date" Value="17 czerwca 2010">
+</Property><Property Name="Time" Value="18:31">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Kriging.sln" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Kriging.suo" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging.suo">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Kriging.csproj" Description="Project file successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\Kriging.csproj">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Kriging.csproj.user" Description="Project user file successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\Kriging.csproj.user">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\KrikingFrame.cs" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\KrikingFrame.cs">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\KrikingFrame.Designer.cs" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\KrikingFrame.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\MainForm.cs" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\MainForm.Designer.cs" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Program.cs" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\Program.cs">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Properties\Settings.settings" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\KrikingFrame.resx" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\KrikingFrame.resx">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\MainForm.resx" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Properties\Resources.resx" Description="File successfully backed up as C:\Users\M&amp;K\Documents\Visual Studio 2010\Projects\Kriging\Backup\Kriging\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Kriging.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Kriging" Source="Kriging\Kriging.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Kriging.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Kriging.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Kriging" Source="Kriging\Kriging.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
